@@ -1,0 +1,23 @@
+filters:
+  and:
+    - file.tags.contains("pose")
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - breath
+      - sequences
+    columnSize:
+      note.breath: 195
+  - type: table
+    name: Sequence
+    filters:
+      and:
+        - sequences.contains(this.file.name)
+    order:
+      - file.name
+      - breath
+    columnSize:
+      file.name: 286
+      note.breath: 195

@@ -1,9 +1,13 @@
+---
+date created: Saturday, October 17th 2026, 1:45:11 pm
+date modified: Saturday, October 17th 2026, 4:51:21 pm
+---
 ## Schedule
 
 The schedule is available as [subscription (ICS) ](https://dkadyrov.github.io/yoga/admin/ytt_schedule.ics)that can be added to Google Calendar.
 ### In-Person Classes
 
-2026-10-17
+[[2026-10-17]]
 2026-10-18
 2026-10-24
 2026-10-25
@@ -29,5 +33,7 @@ The schedule is available as [subscription (ICS) ](https://dkadyrov.github.io/yo
 
 - [[The Yoga Sutras of Patanjali]]
 - [[The Bhagavad Gita]]
-- [[The Key Poses of Yoga: Scientific Keys, Volume II]]
+- [[The Key Poses of Yoga - Scientific Keys, Volume II]]
+- Light on Yoga (Iyengar)
+- The Yoga Asana Index Bruce Bowditch
 
