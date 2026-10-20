@@ -8,3 +8,7 @@ date modified: Saturday, October 17th 2026, 4:51:21 pm
 > There needs to be an intelligence behind your sequence. 
 > Taq [[2026-10-17]]
 
+> Work on the part of the body you don't have
+> Mitch [[2026-10-18]]
+
+

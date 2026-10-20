@@ -6,7 +6,7 @@ aliases:
 bandhas:
   - "[[Uddiyana Bandha]]"
   - "[[Mula Bandha]]"
-breath:
+breath: Exhale
 drishdi:
 sequences:
   - "[[Surya Namaskar A]]"

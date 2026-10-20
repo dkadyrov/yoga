@@ -1,12 +1,15 @@
 ---
 date created: Saturday, October 17th 2026, 4:23:49 pm
 date modified: Saturday, October 17th 2026, 4:51:21 pm
-aliases: [plank]
+aliases:
+  - Plank Pose
 bandhas: "[[Uddiyana Bandha]]"
 sequences:
   - "[[Surya Namaskar A]]"
   - "[[Surya Namaskar B]]"
-tags: [pose]
+tags:
+  - pose
+breath: Exhale
 ---
 
 ## Translation

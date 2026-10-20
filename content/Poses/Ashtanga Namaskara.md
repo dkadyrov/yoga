@@ -6,7 +6,7 @@ bandhas:
 breath:
 drishdi:
 sequences:
-tags: [pose]
+tags:
 ---
 
 ## Translation

@@ -1,12 +1,16 @@
 ---
 date created: Saturday, October 17th 2026, 4:31:42 pm
 date modified: Saturday, October 17th 2026, 4:51:21 pm
-aliases: [Four-limbed Stick Pose]
+aliases:
+  - Four-limbed Stick Pose
 bandhas:
-breath:
+breath: Inhale
 drishdi:
 sequences:
-tags: [pose]
+  - "[[Surya Namaskar A]]"
+  - "[[Surya Namaskar B]]"
+tags:
+  - pose
 ---
 
 ## Translation

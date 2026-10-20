@@ -1,10 +1,15 @@
 ---
-date created: Saturday, October 17th 2026, 1:46:16 pm
-date modified: Saturday, October 17th 2026, 4:51:21 pm
+date created: Sunday, October 18th 2026, 4:23:47 pm
+date modified: Sunday, October 18th 2026, 4:25:03 pm
 ---
-[[Vinyasa]]: Dynamic style of yoga that links breath with movement. 
-- Vi: In a special away. 
-- Nyasa: To Place. 
+## Translation
+
+Vi: In a special away. 
+Nyasa: 
+- Taq: To Place
+- Jeffrey: To Place/To be Arranged in Order
+
+Dynamic style of yoga that links breath with movement. 
 
 Key Elements: Flow, Breath, and Alignment. 
 

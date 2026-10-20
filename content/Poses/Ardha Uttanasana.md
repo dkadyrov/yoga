@@ -1,8 +1,14 @@
 ---
 date created: Saturday, October 17th 2026, 4:13:07 pm
 date modified: Saturday, October 17th 2026, 4:51:21 pm
-aliases: [Half Intense Stretch Pose]
-tags: [pose]
+aliases:
+  - Half Intense Stretch Pose
+tags:
+  - pose
+breath: Inhale
+sequences:
+  - "[[Surya Namaskar A]]"
+  - "[[Surya Namaskar B]]"
 ---
 
 ## Translation

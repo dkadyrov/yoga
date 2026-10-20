@@ -7,7 +7,6 @@ breath:
 drishdi:
 bandhas:
 ---
-
 ## Translation
 
 ## Teaching Process and Alignment

@@ -1,11 +1,13 @@
 filters:
   and:
     - file.tags.contains("pose")
+    - '!file.inFolder("Templates")'
 views:
   - type: table
     name: View
     order:
       - file.name
+      - aliases
       - breath
       - sequences
     columnSize:

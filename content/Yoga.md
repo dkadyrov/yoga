@@ -7,3 +7,5 @@ Yoga: Union.
 Training 
 - [[2026 Fall SONIC Yoga Training]]
 
+Resources
+- Madurama
