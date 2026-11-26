@@ -1,0 +1,41 @@
+---
+tags:
+  - pose
+aliases:
+  - Eagle Pose
+sequences:
+breath:
+drishdi:
+bandhas:
+category:
+---
+## Translation
+
+## Teaching Process and Alignment
+### Foundation
+
+### Set-Up 
+
+### Fine Alignment 
+
+### Exit 
+
+## Functional Benefits
+
+Stretched
+
+Strengthened 
+
+Intensity
+
+Subtle Energy Benefits
+
+Counterposes
+
+Alternate Pose
+
+Preparatory Poses
+
+Contraindications
+
+Modifications

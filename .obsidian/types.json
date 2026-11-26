@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "sequences": "multitext",
+    "bandhas": "multitext",
+    "group": "multitext",
+    "drishdi": "multitext"
+  }
+}
